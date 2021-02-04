@@ -1,0 +1,17 @@
+td:nth-child(2) {background: #5DA5DA} /*(cyan)*/
+td:nth-child(3) {background: #FAA43A} /*(orange)*/
+td:nth-child(4) {background: #60BD68} /*(green)*/
+td:nth-child(5) {background: #F17CB0} /*(pink)*/
+td:nth-child(6) {background: #B2912F} /*(brown)*/
+td:nth-child(7) {background: #B276B2} /*(purple)*/
+td:nth-child(8) {background: #DECF3F} /*(yellow)*/
+td:nth-child(9) {background: #F15854} /*(red)*/
+
+th:nth-child(2) {background: #3D85BA} /*(cyan)*/
+th:nth-child(3) {background: #DA841A} /*(orange)*/
+th:nth-child(4) {background: #409D48} /*(green)*/
+th:nth-child(5) {background: #D16C90} /*(pink)*/
+th:nth-child(6) {background: #92710F} /*(brown)*/
+th:nth-child(7) {background: #925692} /*(purple)*/
+th:nth-child(8) {background: #BEAF1F} /*(yellow)*/
+th:nth-child(9) {background: #D14834} /*(red)*/

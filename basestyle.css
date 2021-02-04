@@ -1,0 +1,16 @@
+@import "colors.css";
+body {background-color: #D0D0D0;}
+h1 {color: #202020;}
+p {color: #000000}
+table {border: 1px solid black; border-collapse: collapse; position: relative}
+th {border: 1px solid black; background: gray; position: sticky; top:0;
+             padding-left: 10px; padding-right: 10px; padding-top: 15px;
+             padding-bottom: 15px}
+td {border: 1px solid black; padding: 5px; text-align: center;}
+th:first-child {text-align: left; padding-left: 10px; padding-right: 10px;}
+td:first-child {text-align: left; padding-left: 10px; padding-right: 10px; width: 300px}
+#chartintro {position: relative; top: 60px}
+#charts {position: relative; top: 60px; width: 750px; display: flex; justify-content: space-between;}
+#explanation {position: relative; top: 70px; height: 300px}
+.firstem {color: #005500;font-weight: bold}
+.secondem {color: #0000DD;font-weight: bold}
